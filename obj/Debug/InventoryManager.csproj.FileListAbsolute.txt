@@ -1,0 +1,9 @@
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Form1.resources
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+c:\users\linc\documents\visual studio 2015\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
